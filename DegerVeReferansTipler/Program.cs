@@ -17,7 +17,8 @@ namespace DegerVeReferansTipler
             sayilar1 = sayilar2;
             sayilar2[0] = 999;
 
-
+            //int, decimal, float, double, bool(True, False) = değer tip
+            //array, class, interface = referans tip
         }
     }
 }
